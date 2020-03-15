@@ -1,0 +1,4 @@
+[1]Autor: yo
+   Nom Firxer: Downloads
+   Data Ultima Modificació: Thu Mar 05 12:09:10 CET 2020
+   Camí: /home/laura/Downloads
